@@ -24,6 +24,7 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
   
 <details>
   <summary><h4> 🧑🏻‍💻 Coding Handles</h2></summary>
+  
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/anain829)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anain829)
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/anain829/practice)
