@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"/>, I'm Ankit Nain</h2>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=07nainankit&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 A Competitive Programmer and Web developer.
-<a href="https://parth-johri.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-</a>
 
 </h3>
 
@@ -21,10 +18,8 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
  
  <details>
   <summary><h4> 🎓 Academics</h2></summary>
-
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'25-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-7.96/10.0-EFEEE9?style=for-the-badge"></span>
-  
 </details>
   
 <details>
@@ -68,42 +63,20 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
   <summary><h4> 💡 Projects</h2></summary>
 
   #### <a href="https://github.com/07nainankit/Job-App">Job Track</a>
-  <span>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </span>  
-  - Implemented instant job alerts to notify users about new job opportunities, along with a **1-hour** reminder before the deadline for better organization and timely application submission. 
-  - Accomplished a significant milestone of **500** daily users for RMNotices, surpassing initial projections aimed to add an extra **2,000** individuals to maximize user base potential. 
-  - **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
+   
+  - Created a full stack MERN application to tackle the problem of keeping track of job's applied and their status.. 
+  - **Impact:** Maximized productivity in overall Job application process.
 
-  #### <a href="https://github.com/ParthJohri/Lumos-Bot">Lumos Bot</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
-  - Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
-  - Boosted the daily user experience of **200** to **300** individuals with Lumos Whatsapp Bot.
-  - **Impact:** Transformed user experience by incorporating various features, resulting in a remarkable **40%** increase in user engagement and a **25%** growth in active participation.
+  #### <a href="https://github.com/07nainankit/CF-Problem-Find">CF Problem Finder</a>
 
-#### <a href="https://github.com/ParthJohri/Google-AMD-Hackathon">Krishi Market</a>
-  <span>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  </span>  
-  
-  - Innovated a web application which will reduce Farmers' dependency on Middlemen and help them sell their crops to retailers, wholesalers, and consumers at a better price. Not only this but this web app would help them to keep track of all their transactions.
-  - **Impact:** Easy and Intuitive UI/UX which facilitated direct communication b/w farmers & consumers, with a secure Database and easy maintenance of all transaction records.
+  - Developed a React web-app to help competitive programmers to get access to their or any other user's solved problem based on different rating ranges.
     
-  #### <a href="https://github.com/ParthJohri/Face-flix">Face-Flix</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
-  - Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
-  - **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
-
-  #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
-  <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
-  - Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
+  #### <a href="https://github.com/07nainankit/Book-Store">Book Store</a>
+   
+  - This was a learning based MERN Stack project to understand about frontend, backend and databases.
+  - It helped me to not only understand and implement MERN Stack but also to develop a website that helps to store details about books.
+  - (Frontend - React routing, useStates, Hooks, axios for communication)
+  - (Backend - Data modling, api calling, data fetching from database, cors policy, crud operations).
 </details>
 
 </details>
@@ -115,7 +88,7 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
   ### Leetcode
   <div align="center">
  
-  ![LeetCode Stats](https://leetcode.card.workers.dev/binarysolver?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/anain829?theme=auto&font=baloo&extension=null)
  
   </div>
 
@@ -123,19 +96,10 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
   ### Codeforces
   <div align="center">
  
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anain829)
  
   </div>
   
-  ### GitHub
-  <div align="center">
-
-   ![](https://github-readme-stats.vercel.app/api?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthJohri&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=ParthJohri&theme=tokyo-night)
-
-  </div>
 </details>
 
 <details>
