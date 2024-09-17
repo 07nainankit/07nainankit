@@ -19,7 +19,7 @@ I am a passionate problem solver and Web Developer with a foundation in both fro
  <details>
   <summary><h4> 🎓 Academics</h2></summary>
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'25-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-7.96/10.0-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-8.19/10.0-EFEEE9?style=for-the-badge"></span>
 </details>
   
 <details>
